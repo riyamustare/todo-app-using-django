@@ -1,4 +1,4 @@
 .env
 __pycache__/
 todo/migrations/
-.DS_Store
+.DS_Store.env
