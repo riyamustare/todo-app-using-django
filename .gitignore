@@ -2,3 +2,4 @@
 __pycache__/
 todo/migrations/
 .DS_Store.env__pycache__/
+.vercel
