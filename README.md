@@ -1,5 +1,6 @@
 A user-friendly Todo app built with Django and PostgreSQL, featuring Google OAuth and Django's built-in authentication system.
----
+
+https://github.com/user-attachments/assets/4551fd4a-2773-46c3-b609-ee14ca862636
 
 ## Features
 
